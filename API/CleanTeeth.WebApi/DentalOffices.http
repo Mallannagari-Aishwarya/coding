@@ -1,0 +1,19 @@
+@CleanTeeth.WebApi_HostAddress = http://localhost:5188
+
+GET http://localhost:5188/api/dentaloffices
+ACCEPT: application/json
+
+###
+GET http://localhost:5188/api/dentaloffices/01A1F40E-0C43-7948-85FB-4CA19417D37C
+ACCEPT: application/json
+
+###
+
+POST http://localhost:5188/api/dentaloffices
+Content-Type: application/json
+
+{
+  "name": "Dental Office A"
+}
+
+###g

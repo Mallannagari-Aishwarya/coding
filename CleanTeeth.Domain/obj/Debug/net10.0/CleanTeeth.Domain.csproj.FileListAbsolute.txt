@@ -1,0 +1,11 @@
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\JNET Working Folder\CleanArchitecture\Core\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
